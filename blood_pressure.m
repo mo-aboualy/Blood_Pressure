@@ -1,7 +1,7 @@
 clc
 clear
-n=input('Enter the number of the patients : '); %mohamed ahmed
-HBP_counter=0;
+n=input('Enter the number of the patients : '); %mohamed aboualy
+HBP_counter=10;
 PHBP_counter=0;
 IBP_counter=0;
 LBP_counter=0;
